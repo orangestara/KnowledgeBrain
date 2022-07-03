@@ -6,24 +6,10 @@
       {
         "id": "a708c751ff05aff2",
         "type": "leaf",
-        "dimension": 43.441226575809196,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A1-OneNotes/2022-07-03.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "f2a3f7489e991f51",
-        "type": "leaf",
-        "dimension": 56.558773424190804,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "O1-Obsidian/templater_/ReadNote.md",
+            "file": "H1-读书观影/H10-读书笔记/纳瓦尔宝典.md",
             "mode": "preview",
             "source": false
           }
@@ -54,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#book",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O1-Obsidian/templater_/ReadNote.md",
+                "file": "H1-读书观影/H10-读书笔记/纳瓦尔宝典.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O1-Obsidian/templater_/ReadNote.md",
+                "file": "H1-读书观影/H10-读书笔记/纳瓦尔宝典.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,19 +120,20 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "f2a3f7489e991f51",
+  "active": "a708c751ff05aff2",
   "lastOpenFiles": [
+    "H1-读书观影/H10-读书笔记/纳瓦尔宝典.md",
+    "H1-读书观影/H10-读书笔记/福格行为模型.md",
+    "A1-OneNotes/2022-07-03.md",
     "O1-Obsidian/templater_/ReadNote.md",
     "O1-Obsidian/templater_/MovieNote.md",
-    "H1-读书观影/H10-读书笔记/纳瓦尔宝典.md",
-    "A1-OneNotes/2022-07-03.md",
     "O1-Obsidian/templater_/tp-booknote.md",
     "O1-Obsidian/templater_/tp-dailynote.md",
     "未命名.md"

@@ -21,7 +21,7 @@
       "appendLink": true,
       "incrementFileName": false,
       "openFileInNewTab": {
-        "enabled": true,
+        "enabled": false,
         "direction": "vertical",
         "focus": true
       },

@@ -1,5 +1,18 @@
 {
-  "userAdmonitions": {},
+  "userAdmonitions": {
+    "blank": {
+      "type": "blank",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "border-style",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    }
+  },
   "syntaxHighlight": false,
   "copyButton": false,
   "version": "9.0.3",
