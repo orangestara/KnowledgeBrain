@@ -1,5 +1,10 @@
 ---
-date: {{date}} {{time}}
+date: {{date}}
 tags: 
-
 ---
+
+	- [u]
+
+
+
+# memos

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "O1-Obsidian/templater_/tp-dailynote.md",
+            "file": "A1-OneNotes/2022-07-03.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O1-Obsidian/templater_/tp-dailynote.md",
+                "file": "A1-OneNotes/2022-07-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O1-Obsidian/templater_/tp-dailynote.md",
+                "file": "A1-OneNotes/2022-07-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,8 +129,8 @@
   },
   "active": "a708c751ff05aff2",
   "lastOpenFiles": [
-    "O1-Obsidian/templater_/tp-dailynote.md",
     "A1-OneNotes/2022-07-03.md",
+    "O1-Obsidian/templater_/tp-dailynote.md",
     "未命名.md"
   ]
 }
