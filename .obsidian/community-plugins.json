@@ -3,5 +3,7 @@
   "obsidian-admonition",
   "templater-obsidian",
   "calendar",
-  "obsidian-git"
+  "obsidian-git",
+  "quickadd",
+  "buttons"
 ]
