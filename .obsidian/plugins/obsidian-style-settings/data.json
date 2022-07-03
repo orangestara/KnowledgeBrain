@@ -1,0 +1,22 @@
+{
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-avocado-topaz",
+  "blue-topaz-theme@@layout-style-options": "layout-style-options-rectangle",
+  "blue-topaz-theme@@bt-status-off": false,
+  "blue-topaz-theme@@transparent-setting-panel": false,
+  "blue-topaz-theme@@scrollbar-style-option": "hover-scrollbars",
+  "blue-topaz-theme@@font-text-theme": "TsangerJinKai03-W04,Bookerly, 'LXGW WenKai', 'Segoe UI Emoji', var(--font-default)",
+  "blue-topaz-theme@@h1-toggle-underline": true,
+  "blue-topaz-theme@@h2-toggle-underline": true,
+  "blue-topaz-theme@@line-width-readable": 60,
+  "blue-topaz-theme@@blur-depth-cp": 25,
+  "blue-topaz-theme@@toggle-left-aligned-content": true,
+  "blue-topaz-theme@@fancy-hr": "fancy-hr-icon",
+  "blue-topaz-theme@@fancy-hr-icon": "'⚡'",
+  "blue-topaz-theme@@plain-file-title": false,
+  "blue-topaz-theme@@code-box-style-option": "codebox-frosted-glass",
+  "blue-topaz-theme@@circular-checkbox": true,
+  "blue-topaz-theme@@file-bg-shape-option": "file-shape-default",
+  "blue-topaz-theme@@file-name-style-option": "file-name-non-wrapped",
+  "blue-topaz-theme@@folder-icons": true,
+  "blue-topaz-theme@@remove-arrow": true
+}
