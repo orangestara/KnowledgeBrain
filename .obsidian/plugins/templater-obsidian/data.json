@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "O1-Obsidian/templater_",
+  "templates_folder": "A1-工具箱/A12-模版",
   "templates_pairs": [
     [
       "",
@@ -15,8 +15,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "A1-OneNotes",
-      "template": "O1-Obsidian/templater_/tp-dailynote.md"
+      "folder": "A2-收集箱/A21-Daily",
+      "template": "A1-工具箱/A12-模版/tp-dailynote.md"
     }
   ],
   "syntax_highlighting": true,

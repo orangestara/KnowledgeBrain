@@ -5,7 +5,7 @@
       "name": "CreateReadNote",
       "type": "Template",
       "command": false,
-      "templatePath": "O1-Obsidian/templater_/ReadNote",
+      "templatePath": "A1-工具箱/A12-模版/ReadNote.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "{{VALUE:fileName}}"
@@ -33,7 +33,7 @@
       "name": "CreateMovieNote",
       "type": "Template",
       "command": false,
-      "templatePath": "O1-Obsidian/templater_/MovieNote",
+      "templatePath": "A1-工具箱/A12-模版/MovieNote.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "{{VALUE:fileName}}"
