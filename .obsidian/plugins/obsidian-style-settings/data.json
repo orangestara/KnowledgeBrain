@@ -18,7 +18,9 @@
   "blue-topaz-theme@@file-bg-shape-option": "file-shape-default",
   "blue-topaz-theme@@file-name-style-option": "file-name-non-wrapped",
   "blue-topaz-theme@@folder-icons": true,
-  "blue-topaz-theme@@remove-arrow": true,
+  "blue-topaz-theme@@remove-arrow": false,
   "blue-topaz-theme@@folder-style-change-options-colorful": true,
-  "blue-topaz-theme@@folder-style-change-options-colorful-subfolder": "folder-colorful-two"
+  "blue-topaz-theme@@folder-style-change-options-colorful-subfolder": "folder-colorful-two",
+  "blue-topaz-theme@@left-ribbon-style": "hide-left-ribbon",
+  "blue-topaz-theme@@right-ribbon-style": "hide-right-ribbon-button-top"
 }

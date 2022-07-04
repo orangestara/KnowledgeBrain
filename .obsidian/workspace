@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "H1-读书观影/H10-读书笔记/纳瓦尔宝典.md",
+            "file": "A2-收集箱/2022-07-03.md",
             "mode": "preview",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "H1-读书观影/H10-读书笔记/纳瓦尔宝典.md",
+                "file": "A2-收集箱/2022-07-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "H1-读书观影/H10-读书笔记/纳瓦尔宝典.md",
+                "file": "A2-收集箱/2022-07-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,9 +129,9 @@
   },
   "active": "a708c751ff05aff2",
   "lastOpenFiles": [
+    "A2-收集箱/2022-07-03.md",
     "H1-读书观影/H10-读书笔记/纳瓦尔宝典.md",
     "H1-读书观影/H10-读书笔记/福格行为模型.md",
-    "A1-OneNotes/2022-07-03.md",
     "O1-Obsidian/templater_/ReadNote.md",
     "O1-Obsidian/templater_/MovieNote.md",
     "O1-Obsidian/templater_/tp-booknote.md",
