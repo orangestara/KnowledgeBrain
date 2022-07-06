@@ -59,19 +59,19 @@
       "name": "书影笔记",
       "type": "Macro",
       "command": true,
-      "macroId": "ce93d8f2-67b8-4b71-8dd8-c13960cc5a48"
+      "macroId": "2c1a04ec-beed-4b40-9940-41bd021fc5c5"
     }
   ],
   "macros": [
     {
       "name": "书影笔记",
-      "id": "ce93d8f2-67b8-4b71-8dd8-c13960cc5a48",
+      "id": "2c1a04ec-beed-4b40-9940-41bd021fc5c5",
       "commands": [
         {
           "name": "doubanInOne",
           "type": "UserScript",
-          "id": "7227b5da-b34d-470c-9c4d-523c21b438d1",
-          "path": "O1-Obsidian/templater_/doubanInOne.js",
+          "id": "6c29c63a-9a76-4faf-9ff9-9e7d9f9da69f",
+          "path": "A1-工具箱/A14-函数/doubanInOne.js",
           "settings": {}
         }
       ],
